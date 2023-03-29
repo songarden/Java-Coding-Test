@@ -2,7 +2,7 @@ package codingtest;
 
 import java.util.*;
 
-public class No5 //실패{
+public class No5{ //실패
     static ArrayList<Integer>[] graph;
     static boolean[] visited;
     static int[] time;
